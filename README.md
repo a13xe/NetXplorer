@@ -14,7 +14,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AlexeyLepov/NetXplorer.git
+git clone https://github.com/a13xe/NetXplorer.git
 ```
 
 3. Install required packages (psutil and customtkinter):
